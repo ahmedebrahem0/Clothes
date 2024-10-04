@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Carina-shop/static/css/main.a15913fa.css",
+    "main.js": "/Carina-shop/static/js/main.70d1faf3.js",
+    "static/js/453.e9dcc215.chunk.js": "/Carina-shop/static/js/453.e9dcc215.chunk.js",
+    "static/media/image-removebg-preview (1).png": "/Carina-shop/static/media/image-removebg-preview (1).6915a7196322d3d11e42.png",
+    "static/media/home-img.png": "/Carina-shop/static/media/home-img.5d72cc9e772656ac9bd6.png",
+    "static/media/vanilla.jpg": "/Carina-shop/static/media/vanilla.ba5a31f2e8800cb9d6b0.jpg",
+    "index.html": "/Carina-shop/index.html",
+    "main.a15913fa.css.map": "/Carina-shop/static/css/main.a15913fa.css.map",
+    "main.70d1faf3.js.map": "/Carina-shop/static/js/main.70d1faf3.js.map",
+    "453.e9dcc215.chunk.js.map": "/Carina-shop/static/js/453.e9dcc215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15913fa.css",
+    "static/js/main.70d1faf3.js"
+  ]
+}
